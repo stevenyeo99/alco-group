@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alco-group/static/css/main.61919b2b.chunk.css",
+    "main.js": "/alco-group/static/js/main.452f3839.chunk.js",
+    "main.js.map": "/alco-group/static/js/main.452f3839.chunk.js.map",
+    "runtime-main.js": "/alco-group/static/js/runtime-main.3d65a7b7.js",
+    "runtime-main.js.map": "/alco-group/static/js/runtime-main.3d65a7b7.js.map",
+    "static/js/2.17ade378.chunk.js": "/alco-group/static/js/2.17ade378.chunk.js",
+    "static/js/2.17ade378.chunk.js.map": "/alco-group/static/js/2.17ade378.chunk.js.map",
+    "static/js/3.0ec14d6c.chunk.js": "/alco-group/static/js/3.0ec14d6c.chunk.js",
+    "static/js/3.0ec14d6c.chunk.js.map": "/alco-group/static/js/3.0ec14d6c.chunk.js.map",
+    "index.html": "/alco-group/index.html",
+    "static/css/main.61919b2b.chunk.css.map": "/alco-group/static/css/main.61919b2b.chunk.css.map",
+    "static/js/2.17ade378.chunk.js.LICENSE.txt": "/alco-group/static/js/2.17ade378.chunk.js.LICENSE.txt",
+    "static/media/Alco Logo - OK-1.ceab96eb.jpg": "/alco-group/static/media/Alco Logo - OK-1.ceab96eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d65a7b7.js",
+    "static/js/2.17ade378.chunk.js",
+    "static/css/main.61919b2b.chunk.css",
+    "static/js/main.452f3839.chunk.js"
+  ]
+}
